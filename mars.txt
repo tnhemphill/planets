@@ -1,4 +1,9 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
+<<<<<<< HEAD
 Changes
 There's a starman
+=======
+Changes, Bowie
+
+>>>>>>> a1dcc25e354cec708267787cac47efa678be81ea
